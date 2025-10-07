@@ -18,7 +18,7 @@
 
 ---
 
-[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Yassine Aouni CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Aouni_Yassine.pdf)
 > For those who love PDFs more than small talk. 😄
 ---
 
