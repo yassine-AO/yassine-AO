@@ -31,10 +31,10 @@
 > Data Analysis • API Design • Intelligent Systems Deployment  
 
 ---
-
+<!--
 ### 📜 Certifications  
 
-<!--
+
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Coursera-0066CC?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/demo-link)  
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-IBM-0C63E7?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/demo-link)  
 [![AWS Fundamentals](https://img.shields.io/badge/AWS%20Fundamentals-Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/demo-link)  
