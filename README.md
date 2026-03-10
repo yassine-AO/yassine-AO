@@ -3,7 +3,8 @@
 ### 🤖 AI & Data Science Engineering Student | Building Smart Systems that Actually *Think*  
 
 - 💼 Former **AI Engineer Intern** @ **Eximium Talent** (London, UK – Hybrid)  
-- 🎓 4th-year Engineering Student @ **EMSI Casablanca**  
+- 🎓 4th-year Engineering Student @ **EMSI Casablanca**
+- 🔎 **Currently seeking a 3-month AI / ML Internship starting July 2026**
 - 🌍 Passionate about **AI Applications, LLMs, RAG Systems, and Computer Vision**  
 - 💡 Always exploring how to make AI *useful*, not just *cool*.  
 
